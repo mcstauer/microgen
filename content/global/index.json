@@ -1,29 +1,53 @@
 {
-  "siteUrl": "microgen.site",
   "gtmId": "",
+  "siteUrl": "microgen.site",
+  "favicon": "/uploads/logo.jpg",
+  "analytics": "none",
   "fathomSiteId": "",
   "theme": "content/themes/microgen.md",
   "logo": {
-    "logoType": "Microgen",
-    "logoTypeStyle": "undefined undefined ",
-    "image": "/uploads/microgen-logo.svg",
-    "imageWidth": "224"
+    "logoType": "Psykoterapeut Marie W. Ørberg",
+    "logoTypeStyle": "undefined undefined mb-5",
+    "image": "",
+    "imageWidth": "150",
+    "imageHeight": "150",
+    "imageMargin": ""
   },
   "nav": {
     "padding": "pt-6 pb-5 pr-10 pl-10 sm:pt-6 sm:pb-5 sm:pr-5 sm:pl-5",
     "navBackgroundColor": "bg-black opacity-80",
     "navAlignment": "text-right",
     "navTypeStyle": "text-white mg-nav mb-7",
+    "navItems": [
+      {
+        "label": "Forside",
+        "link": "/home"
+      },
+      {
+        "label": "Om",
+        "link": "/om"
+      },
+      {
+        "label": "Terapi",
+        "link": "/terapi"
+      },
+      {
+        "label": "Artikler",
+        "link": "/posts"
+      },
+      {
+        "label": "Kontakt",
+        "link": "/kontakt"
+      }
+    ],
     "navButtons": [
       {
-        "label": "",
+        "label": "Facebook",
         "link": "https://github.com/MicrogenSite/microgen",
-        "icon": "github",
+        "icon": "facebook",
         "style": "icon"
       }
     ]
   },
-  "favicon": "/uploads/favicon.png",
-  "footerNav": "true",
-  "analytics": "none"
+  "footerNav": "false"
 }

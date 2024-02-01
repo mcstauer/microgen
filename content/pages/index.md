@@ -1,4 +1,5 @@
 ---
+backgroundColor: white
 blocks:
   - style:
       alignment: flex-col items-center gap-8
@@ -19,7 +20,7 @@ blocks:
     image:
       src: ''
     label: ''
-    headline: The Web3 Visual Site Builder
+    headline: 'Velkommen til '
     subhead: >-
       Microgen is an intuitive, open source visual site builder made for Web3.
       Free forever and built for the decentralized internet. Extend the library
@@ -350,111 +351,13 @@ blocks:
       run on **[IPFS](https://ipfs.tech/ "IPFS")**. It’s based on the excellent
       and open source **[Tina CMS](https://tina.io "Tina CMS")**.
     _template: feature
-backgroundColor: white
-meta:
-  title: Microgen
-  description: ''
 background:
   fillStyles: bg-black opacity-100
   src: ''
   style: bg-cover
   position: bg-left
+meta:
+  title: Microgen
+  description: ''
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
