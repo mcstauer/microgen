@@ -21,7 +21,7 @@
     "navItems": [
       {
         "label": "Forside",
-        "link": "/home"
+        "link": "/"
       },
       {
         "label": "Om",
