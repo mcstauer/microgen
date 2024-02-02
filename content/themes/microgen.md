@@ -5,7 +5,7 @@ colors:
   primary: '#D9ABA0'
   accent1: '#0E4465'
   accent2: '#1BBF6E'
-  accent3: '#DBEDF9'
+  accent3: '#C1DDED'
   accent4: '#FEF9F5'
   white: '#FFFFFF'
   grayLight: '#E8E8EF'
