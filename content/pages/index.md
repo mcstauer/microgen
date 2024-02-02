@@ -20,7 +20,7 @@ blocks:
     image:
       src: /uploads/logo.jpg
     label: ''
-    headline: 'Velkommen til '
+    headline: Velkommen til...
     subhead: >-
       Microgen is an intuitive, open source visual site builder made for Web3.
       Free forever and built for the decentralized internet. Extend the library
