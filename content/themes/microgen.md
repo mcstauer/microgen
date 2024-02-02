@@ -10,7 +10,7 @@ colors:
   white: '#FFFFFF'
   grayLight: '#E8E8EF'
   gray: '#B0B0BF'
-  grayDark: '#171717'
+  grayDark: '#222222'
   black: '#000000'
 fonts:
   typekitLink: ''
