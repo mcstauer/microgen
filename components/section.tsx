@@ -18,7 +18,8 @@ export const Section = ({
   const sectionId = navigationLabel ? { id: lowerDash(navigationLabel) } : {}
   return (
     <section { ...sectionId } className={`relative ${className}`}>
-      <Background background={background} />
+      <Background />
+      {/* <Background background={background} /> */}
       {children}
     </section>
   );
