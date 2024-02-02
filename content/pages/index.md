@@ -121,7 +121,7 @@ blocks:
     navigationLabel: ''
     _template: cards
 background:
-  fillStyles: bg-primary opacity-20
+  fillStyles: bg-accent1 opacity-20
   wrapFillStyles: ' opacity-100'
   src: ''
   style: bg-cover
